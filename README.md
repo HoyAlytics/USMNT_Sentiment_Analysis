@@ -6,6 +6,4 @@ We have notebooks available to query the data, conduct the sentiment analysis, a
 
 To respect privacy, we have hidden the data used for this project. Feel free to send us a request for the data if needed.
 
-Kats has stringent requirements for its library dependencies. As such, we recommend configuring your environment to the libraries listed in the env.yaml file. You can follow instructions to configure your environment using the link below. We have provided the proper env.yaml file in this repository.
-
-https://towardsdatascience.com/how-to-export-and-load-anaconda-environments-for-data-science-projects-77dc3b781369
+Kats has stringent requirements for its library dependencies. As such, we recommend configuring your environment to the libraries listed in the env.yaml file. You can follow instructions to configure your environment [here](https://towardsdatascience.com/how-to-export-and-load-anaconda-environments-for-data-science-projects-77dc3b781369). We have provided the proper env.yaml file in this repository.
