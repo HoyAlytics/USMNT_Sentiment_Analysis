@@ -1,6 +1,6 @@
 # USMNT Sentiment Analysis
 
-Welcome! Please read our Medium article that explains the code and theory behind this project. 
+Welcome! Please read our Medium article (https://medium.com/hoyalytics/its-called-vader-a-python-twitter-sentiment-analysis-on-usmnt-fans-during-the-2022-world-cup-a8e08d479647) that explains the code and theory behind this project. 
 
 We have notebooks available to query the data, conduct the sentiment analysis, and perform the time series analysis and changepoint detection. Feel free to visit our notebooks for each game available for the USMNT during the 2022 World Cup.
 
